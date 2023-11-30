@@ -1,1 +1,2 @@
-# odin-recipes
+# odin-recipes is a website for basic cooking recipes with a personal touch. Will consist of a main index page that will have links to some recipes.
+# It will serve as a good beginning to put into practice basic HTML concepts such as title tags, lists; work with text, links and images. As well as exercising Github topics such as git clone, add, push and commit messages.
